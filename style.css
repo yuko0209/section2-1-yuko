@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    font-size: 18px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin: 10px 0;
+    cursor: pointer;
+    padding: 8px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.sidebar li:hover {
+    background-color: #ccc;
+}
+
+.content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+#title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#text {
+    font-size: 18px;
+}
