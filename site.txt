@@ -1,2 +1,2 @@
 S3で公開しているURL: http://section2-1yuko.s3-website-ap-northeast-1.amazonaws.com
-CloudFrontで公開しているURL: （ここにCloudFrontで手に入れたURLを貼る）
+CloudFrontで公開しているURL: d2kovkb2t6hdgu.cloudfront.net
